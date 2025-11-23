@@ -1,4 +1,4 @@
-class MVM < Formula
+class Mvm < Formula
   desc "A simple prebuilt C program"
   homepage "https://github.com/maivanmanh/homebrew-private-tap"
   url "https://github.com/maivanmanh/homebrew-private-tap/releases/download/v1.0.0/main-1.0.0.tar.gz"
